@@ -19,7 +19,7 @@ The user Object has the following fields such as Id, firstName, lastName, emailA
 1. Search “Command Prompt” and run as administrator
 2. Fire the below command in the command prompt and press ENTER.
     cd C:\Windows\Microsoft.NET\Framework\v4.0.30319 
-3. Now Go to your project source folder > bin > Debug and copy the full path of your Windows Service exe file.
+3. Now Go to the SelfHostedAPI_Service project source folder > bin > Debug and copy the full path of your Windows Service exe file.
 4. Open the command prompt and fire the below command and press ENTER.
     Syntax
 
