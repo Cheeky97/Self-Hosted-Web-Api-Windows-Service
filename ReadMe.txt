@@ -1,6 +1,6 @@
 # Self-Hosted WebAPIi Windows service
 
-This is a windows service which can be installed in our local system.
+This is a windows service which can be installed in our local system. This windows service is started in which self hosted web api is up and running so that you can consume the api for CRUD operations.
 The Self-Hosted-Web-Api-Windows-Service/SelfHostedAPI/ has the business logic in which we can manage users with the API. All the data can be loaded from the file savedonn a disk.
 The Self-Hosted-Web-Api-Windows-Service/SelfHostedAPI_Test/ is a test project created under the above console application and a reference has been added to it. This has unit testing for the main methods in the application.
 The Self-Hosted-Web-Api-Windows-Service/SelfHostedAPI_Service/ is a Windows Service project which is also created under the above console application and a reference has been added.
